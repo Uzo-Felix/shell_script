@@ -1,0 +1,1 @@
+use "TRUNCATE <table> CASCADE" to delete recursively
