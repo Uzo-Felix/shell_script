@@ -1,1 +1,6 @@
-# shell_script
+# RELATIONAL DATABASE
+
+- #### shell scripting
+- #### postgre database
+- #### sql
+
